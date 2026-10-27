@@ -1,0 +1,16 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary logs
+*.log
+
+# Local Julia environment and helper scripts
+Project.toml
+Manifest.toml
+rename.jl
+rename2.jl
+DATA_PROVENANCE.md
